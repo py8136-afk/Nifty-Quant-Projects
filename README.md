@@ -10,7 +10,7 @@ Quantitative finance projects built on Indian markets — from risk modelling to
 |---|---------|----------|------------|
 | 1 | [GARCH-VaR + Expected Shortfall](./garch-var-expected-shortfall/) | Python | Kupiec-validated VaR on 5 Indian indices, all tests pass |
 | 2 | [India Multi-Factor Model](./india-factor-model/) | R | 9.2% annualised return, IC 0.077, IC IR 0.25 on 19 NSE stocks |
-| 3 | BankNifty-Nifty Pairs Trade | Python + SQL | Coming soon |
+| 3 | [BankNifty-Nifty Pairs Trade](./banknifty-nifty-pairs-trade/) | Python + SQL | Near-cointegrated (ADF p=0.022), hedge ratio 2.41x, regime breaks identified |
 | 4 | Nifty Implied Vol Surface | Python | Coming soon |
 | 5 | Credit Risk Scoring | R | Coming soon |
 | 6 | Portfolio Stress Testing | Python | Coming soon |
