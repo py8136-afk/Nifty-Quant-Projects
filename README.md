@@ -2,7 +2,7 @@
 
 Quantitative finance projects built on Indian markets — from risk modelling to factor research to derivatives pricing.
 
-**Author:** Prateek Yadav | IIM Jammu MBA 2025–27 | CFA L2 Cleared
+**Author:** Prateek Yadav | IIM-J MBA(Fin)'27 | Physics @ KiroriMal'24
 
 ## Projects
 
