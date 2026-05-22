@@ -1,0 +1,4 @@
+model,T,expected_breaches,actual_breaches,breach_rate_pct,kupiec_lr,kupiec_pass,chris_lr,chris_pass,pi_breach_after_nobreach,pi_breach_after_breach,avg_var_pct
+Historical Simulation,1312,13.12,14,1.0671,0.0583,True,0.3022,True,0.0108,0.0,3.4339
+"GARCH(1,1)",1312,13.12,29,2.2104,14.4381,False,1.3121,True,0.0226,0.0,2.3256
+Regime-Switching,1312,13.12,9,0.686,1.4686,True,0.1244,True,0.0069,0.0,4.4318
